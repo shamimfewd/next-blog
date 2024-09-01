@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Global Summit on Climate Change Concludes with Major Agreements",
+    "description": "World leaders have reached significant agreements to reduce carbon emissions at the Global Summit on Climate Change. Key commitments include a 30% reduction in greenhouse gas emissions by 2030.",
+    "date": "2024-08-30",
+    "source": "BBC News",
+    "url": "https://www.bbc.com/news/climate-summit"
+  },
+  {
+    "id": 2,
+    "title": "Economic Recession Fears as Global Markets Experience Turbulence",
+    "description": "Stock markets around the world have experienced severe volatility amid fears of a potential global recession. Economists are warning that inflation and rising interest rates could lead to a downturn.",
+    "date": "2024-08-29",
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/economic-recession-fears"
+  },
+  {
+    "id": 3,
+    "title": "Historic Peace Agreement Signed in Middle East Conflict",
+    "description": "A historic peace agreement has been signed between warring factions in a long-standing Middle Eastern conflict. The deal is expected to bring lasting stability to the region after decades of turmoil.",
+    "date": "2024-08-28",
+    "source": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/middle-east-peace-agreement"
+  },
+  {
+    "id": 4,
+    "title": "Tech Giants Face New Regulations in Europe",
+    "description": "The European Union has introduced new regulations aimed at curbing the power of tech giants. The rules include stricter data privacy requirements and limits on targeted advertising.",
+    "date": "2024-08-27",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/tech-eu-regulations"
+  },
+  {
+    "id": 5,
+    "title": "Humanitarian Crisis Worsens in Conflict Zones",
+    "description": "The humanitarian situation in conflict zones around the world continues to deteriorate, with millions of people facing food and water shortages, displacement, and a lack of basic healthcare.",
+    "date": "2024-08-26",
+    "source": "CNN",
+    "url": "https://www.cnn.com/news/humanitarian-crisis-conflict-zones"
+  },
+  {
+    "id": 6,
+    "title": "Breakthrough in Cancer Research Offers New Hope",
+    "description": "Scientists have announced a breakthrough in cancer research that could revolutionize treatment for several types of cancer. The new therapy targets cancer cells more precisely and with fewer side effects.",
+    "date": "2024-08-25",
+    "source": "New York Times",
+    "url": "https://www.nytimes.com/health/cancer-research-breakthrough"
+  }
+]

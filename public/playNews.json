@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Football (Soccer)",
+    "description": "Football, also known as soccer, is a team sport played between two teams of eleven players with a spherical ball. It is the most popular sport in the world.",
+    "popularity": "Worldwide",
+    "origin": "England, 19th century",
+    "key_rules": [
+      "The game is played in two halves of 45 minutes each.",
+      "The objective is to score goals by getting the ball into the opposing team's net.",
+      "Only the goalkeeper is allowed to use their hands to touch the ball within their penalty area."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Cricket",
+    "description": "Cricket is a bat-and-ball game played between two teams of eleven players on a field with a 22-yard pitch at its center. The sport is known for its strategic depth and diverse formats.",
+    "popularity": "Popular in countries like India, Australia, England, and South Africa.",
+    "origin": "England, 16th century",
+    "key_rules": [
+      "Each team takes turns to bat and bowl, with the aim of scoring runs or dismissing players.",
+      "A match can be played in various formats, including Test matches, One Day Internationals, and T20s.",
+      "Runs are scored by hitting the ball and running between the wickets, or by hitting the ball to the boundary."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Basketball",
+    "description": "Basketball is a team sport where two teams of five players each try to score by shooting a ball through the opponent's hoop. The sport is known for its fast pace and high scoring.",
+    "popularity": "Popular in the United States, China, and Europe.",
+    "origin": "USA, 1891",
+    "key_rules": [
+      "The game is played in four quarters of 12 minutes each.",
+      "Points are scored by shooting the ball through the hoop from various distances, with 1, 2, or 3 points awarded.",
+      "Players must dribble the ball while moving and cannot take more than two steps without bouncing the ball."
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Tennis",
+    "description": "Tennis is a racket sport that can be played individually against a single opponent or between two teams of two players each. The objective is to hit the ball over the net into the opponent's court.",
+    "popularity": "Popular worldwide, especially in Europe, North America, and Australia.",
+    "origin": "France, 12th century (modern form developed in England in the late 19th century)",
+    "key_rules": [
+      "Matches are played in sets, with players needing to win a certain number of sets to win the match.",
+      "Points are scored when the opponent fails to return the ball within the allowed boundaries.",
+      "Players alternate serves every game, with the serve switching to the other player after every set."
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Baseball",
+    "description": "Baseball is a bat-and-ball game played between two teams of nine players each. The goal is to score runs by hitting the ball and running around a series of four bases arranged in a diamond shape.",
+    "popularity": "Popular in the United States, Japan, and Latin America.",
+    "origin": "USA, 18th century",
+    "key_rules": [
+      "The game is played over nine innings, with each team having a chance to bat and field.",
+      "Runs are scored by hitting the ball and running to touch the bases in sequence.",
+      "The defensive team tries to get outs by catching the ball, throwing it to a base, or striking out the batter."
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Rugby",
+    "description": "Rugby is a contact team sport that originated in England. It is played with an oval ball that players can carry, kick, and pass with the aim of scoring tries or kicking goals.",
+    "popularity": "Popular in countries like New Zealand, South Africa, England, and Australia.",
+    "origin": "England, 19th century",
+    "key_rules": [
+      "The game is played in two halves of 40 minutes each.",
+      "Players can run with the ball or kick it but can only pass it backward.",
+      "Points are scored by grounding the ball in the opponent's in-goal area (a try) or by kicking it through the goalposts."
+    ]
+  }
+]
